@@ -2827,7 +2827,7 @@ def tensor_split(
 
     Examples:
         .. code-block:: python
-            :name: code-example-1
+            :name: tensor-split-example-1
 
             >>> import paddle
 
@@ -2844,7 +2844,7 @@ def tensor_split(
         .. image:: https://githubraw.cdn.bcebos.com/PaddlePaddle/docs/develop/docs/images/api_legend/tensor_split/tensor_split-2.png
 
         .. code-block:: python
-            :name: code-example-2
+            :name: tensor-split-example-2
 
             >>> import paddle
 
@@ -2862,7 +2862,7 @@ def tensor_split(
         .. image:: https://githubraw.cdn.bcebos.com/PaddlePaddle/docs/develop/docs/images/api_legend/tensor_split/tensor_split-3_en.png
 
         .. code-block:: python
-            :name: code-example-3
+            :name: tensor-split-example-3
 
             >>> import paddle
 
@@ -2880,7 +2880,7 @@ def tensor_split(
         .. image:: https://githubraw.cdn.bcebos.com/PaddlePaddle/docs/develop/docs/images/api_legend/tensor_split/tensor_split-4.png
 
         .. code-block:: python
-            :name: code-example-4
+            :name: tensor-split-example-4
 
             >>> import paddle
 
@@ -2896,7 +2896,7 @@ def tensor_split(
         .. image:: https://githubraw.cdn.bcebos.com/PaddlePaddle/docs/develop/docs/images/api_legend/tensor_split/tensor_split-5.png
 
         .. code-block:: python
-            :name: code-example-5
+            :name: tensor-spilt-example-5
 
             >>> import paddle
 
